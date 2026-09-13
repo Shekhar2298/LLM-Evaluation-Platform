@@ -1,0 +1,3 @@
+{"id":"support-001","prompt":"Explain why a password reset link might expire.","reference":"Password reset links commonly expire to reduce account takeover risk.","metadata":{"category":"support","difficulty":"easy"}}
+{"id":"support-002","prompt":"Give a concise explanation of two-factor authentication.","reference":"Two-factor authentication adds a second verification step beyond a password.","metadata":{"category":"security","difficulty":"easy"}}
+{"id":"writing-001","prompt":"Rewrite this as a polite status update: The deployment is delayed because tests are failing.","reference":"The deployment is delayed while we address failing tests. We will share an update when the fix is verified.","metadata":{"category":"writing","difficulty":"medium"}}
